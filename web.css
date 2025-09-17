@@ -1,0 +1,16 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.container{
+    .navbar{
+        border: 2px solid black;
+        }
+    }
+.list{
+    display: flex;
+    
+    
+}
+
+
